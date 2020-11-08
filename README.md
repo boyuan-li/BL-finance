@@ -1,6 +1,6 @@
 # BL-finance
 
-Investment 
+Financial Investment 
 
 1. [eiten](https://github.com/tradytics/eiten)
 2. [zipline](https://github.com/quantopian/zipline)
